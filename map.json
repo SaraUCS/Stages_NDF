@@ -192,7 +192,7 @@
         {
          "columns":67,
          "firstgid":1,
-         "image":"Room_Builder_32x32.png",
+         "image":"Tiles\/Boden_W\u00e4nde_etc\/Room_Builder_32x32.png",
          "imageheight":1952,
          "imagewidth":2144,
          "margin":0,
@@ -205,7 +205,7 @@
         {
          "columns":16,
          "firstgid":4088,
-         "image":"13_Conference_Hall_32x32.png",
+         "image":"Tiles\/Wohnen- und andere Lebensbereiche\/13_Conference_Hall_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -218,7 +218,7 @@
         {
          "columns":16,
          "firstgid":4280,
-         "image":"14_Basement_32x32.png",
+         "image":"Tiles\/Wohnen- und andere Lebensbereiche\/14_Basement_32x32.png",
          "imageheight":1600,
          "imagewidth":512,
          "margin":0,
@@ -412,7 +412,7 @@
         {
          "columns":16,
          "firstgid":5080,
-         "image":"2_LivingRoom_32x32.png",
+         "image":"Tiles\/Wohnen- und andere Lebensbereiche\/2_LivingRoom_32x32.png",
          "imageheight":1440,
          "imagewidth":512,
          "margin":0,
@@ -425,7 +425,7 @@
         {
          "columns":16,
          "firstgid":5800,
-         "image":"6_Music_and_sport_32x32.png",
+         "image":"Tiles\/Wohnen- und andere Lebensbereiche\/6_Music_and_sport_32x32.png",
          "imageheight":928,
          "imagewidth":512,
          "margin":0,
@@ -484,7 +484,7 @@
         {
          "columns":16,
          "firstgid":6264,
-         "image":"1_Generic_32x32.png",
+         "image":"Tiles\/Wohnen- und andere Lebensbereiche\/1_Generic_32x32.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -497,7 +497,7 @@
         {
          "columns":22,
          "firstgid":7224,
-         "image":"Office_interiors_32x32.png",
+         "image":"Tiles\/B\u00fcrobedarf\/Office_interiors_32x32.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -898,7 +898,7 @@
         {
          "columns":16,
          "firstgid":7752,
-         "image":"12_Kitchen_32x32.png",
+         "image":"Tiles\/Wohnen- und andere Lebensbereiche\/12_Kitchen_32x32.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -911,7 +911,7 @@
         {
          "columns":16,
          "firstgid":8536,
-         "image":"19_Hospital_32x32.png",
+         "image":"Tiles\/Wohnen- und andere Lebensbereiche\/19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
