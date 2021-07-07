@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/561363061"
+                 "value":"https:\/\/stream.nuernberg.digital\/lorenz\/"
                 }],
          "type":"tilelayer",
          "visible":true,
