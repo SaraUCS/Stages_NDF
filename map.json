@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/airtable.com\/shrONilsmtlbXkg5W"
+                 "value":"https:\/\/airtable.com\/embed\/shrONilsmtlbXkg5W?backgroundColor=yellowLight"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -15967,7 +15967,7 @@
         {
          "columns":67,
          "firstgid":11124,
-         "image":"..\/ndf_stage03\/Tiles\/Boden_W\u00e4nde_etc\/Room_Builder_32x32.png",
+         "image":"..\/ndf_stage02\/Tiles\/Boden_W\u00e4nde_etc\/Room_Builder_32x32.png",
          "imageheight":1952,
          "imagewidth":2144,
          "margin":0,
